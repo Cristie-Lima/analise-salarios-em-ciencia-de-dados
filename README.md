@@ -1,6 +1,7 @@
 _Primeiro Projeto Acadêmico no Github_
 
 **Disciplina:** Visualização de Dados
+**Aluna:** A. Cristiane R. Lima
 
 
 
