@@ -1,2 +1,2 @@
 Primeiro Projeto Acadêmico no Github ->
-Disciplina: Fundamentos de Machine Learning
+Disciplina: Visualização de Dados
