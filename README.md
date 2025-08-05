@@ -1,6 +1,8 @@
-Primeiro Projeto Acadêmico no Github
+_Primeiro Projeto Acadêmico no Github_
 
-Disciplina: Visualização de Dados
+**Disciplina:** Visualização de Dados
+
+
 
 **Slides de apresentação:** Apresentação-MOD5-ProjFinal-Visualização de Dados (Fundo Preto).pdf
 
